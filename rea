@@ -1,0 +1,15 @@
+Tarea 1
+
+archivos para la ejecucion de la tarea
+
+para acceder al servicio web debe hacerse siguiendo la siguiente direccion
+
+http://localhost:18080/modeladows/rest/modelado2017/sum/{param1}/{param2}
+
+por ejemplo
+
+http://localhost:18080/modeladows/rest/modelado2017/sum/1/2
+
+#UJaveriana
+#ModVal
+#AES
